@@ -1,0 +1,8 @@
+{
+    "name" : "CC Demo1 Protocol",
+    "desc" : [
+        "Synthenic demo protocol to demonstrate definition of various ",
+        "fields as well as simple protocol framing."
+    ],
+    "type" : "protocol"
+}
