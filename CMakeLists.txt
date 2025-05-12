@@ -76,9 +76,9 @@ function (cc_plugin_Message)
         cc_tools_qt_plugin/Message/cc_demo1/message/SimpleInts.cpp
         cc_tools_qt_plugin/Message/cc_demo1/message/Strings.cpp
         cc_tools_qt_plugin/Message/cc_demo1/message/Variants.cpp
+        cc_tools_qt_plugin/Message/cc_demo1/factory/MsgFactory.cpp
         cc_tools_qt_plugin/Message/cc_demo1/frame/FrameTransportMessage.cpp
         cc_tools_qt_plugin/Message/cc_demo1/frame/Frame.cpp
-        cc_tools_qt_plugin/Message/cc_demo1/factory/MsgFactory.cpp
     )
 
     add_library (${name} STATIC ${src})
