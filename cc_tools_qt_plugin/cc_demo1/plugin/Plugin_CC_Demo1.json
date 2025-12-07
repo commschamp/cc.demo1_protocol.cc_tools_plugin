@@ -4,5 +4,6 @@
         "Synthenic demo protocol to demonstrate definition of various ",
         "fields as well as simple protocol framing."
     ],
+    "version": "v3.0.4",
     "type" : "protocol"
 }
